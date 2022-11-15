@@ -1,0 +1,24 @@
+{
+  "name": "andrew-db",
+  "version": "1.0.0",
+  "description": "Discord Bot development with JS",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRDCodeI/Andrew-DB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRDCodeI/Andrew-DB/issues"
+  },
+  "homepage": "https://github.com/IRDCodeI/Andrew-DB#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
