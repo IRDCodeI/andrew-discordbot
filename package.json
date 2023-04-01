@@ -1,14 +1,29 @@
 {
+<<<<<<< HEAD
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
+=======
+  "name": "andrew-db",
+  "version": "1.0.0",
+  "description": "Discord Bot development with JS",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRDCodeI/Andrew-DB.git"
+>>>>>>> 91f35c76bbe14957995e9af81fda6c070399bde1
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "dependencies": {
     "@discordjs/voice": "^0.13.0",
     "discord.js": "^14.5.0",
@@ -18,5 +33,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
+=======
+  "bugs": {
+    "url": "https://github.com/IRDCodeI/Andrew-DB/issues"
+  },
+  "homepage": "https://github.com/IRDCodeI/Andrew-DB#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+>>>>>>> 91f35c76bbe14957995e9af81fda6c070399bde1
   }
 }
